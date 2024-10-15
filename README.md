@@ -13,7 +13,7 @@ I'm a passionate **Software Developer** specialisinging in FrontEnd Development,
 - [**Portfolio Website**](https://github.com/LeGabriel254/My-Website.git) — My personal website showcasing my skills and projects.
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeGabriel254e&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeGabriel254&show_icons=true&theme=radical)
 
 ### 📖 Currently Learning
 - 🌱 Exploring **JavaScript** for system-level programming.
