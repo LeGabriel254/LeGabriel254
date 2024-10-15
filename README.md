@@ -3,7 +3,7 @@
 I'm a passionate **Software Developer** specialisinging in FrontEnd Development, constantly exploring new technologies and building amazing projects.
 
 ### 🛠️ Technologies & Tools
-- **Languages**: JavaScriptHTML,CSS,Typescript
+- **Languages**: JavaScript,HTML,CSS,Typescript
 - **Frameworks**: React,Angular
 - **Tools**: Git
 - **Databases**: MySQL
