@@ -1,8 +1,33 @@
-- 👋 Hi, I’m @LeGabriel254
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on my Projects
-- 📫 How to reach me lyongabriel746@gmail.com
+# Hi there 👋, I'm Gabriel Leon!
+
+I'm a passionate **Software Developer** specialisinging in FrontEnd Development, constantly exploring new technologies and building amazing projects.
+
+### 🛠️ Technologies & Tools
+- **Languages**: JavaScriptHTML,CSS,Typescript
+- **Frameworks**: React
+- **Tools**: Git
+- **Databases**: MySQL
+
+### 🚀 Featured Projects
+- [**Project One**](https://github.com/LeGabriel254/quiz-app.git) — A Quiz App that simplifies the creation, administration, and participation in quizzes using React.
+- [**Portfolio Website**](https://github.com/LeGabriel254/My-Website.git) — My personal website showcasing my skills and projects.
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeGabriel254e&show_icons=true&theme=radical)
+
+### 📖 Currently Learning
+- 🌱 Exploring **JavaScript** for system-level programming.
+- 💡 Deepening my knowledge in **Asynchronous function**.
+
+### 🌍 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/leon-gabriel-82655b308)
+- [Twitter](https://x.com/LyonGabrie24988)
+- [Instagram](https://www.instagram.com/its.leon.__/)
+
+### 😄 Fun Facts
+- I love contributing to open-source projects!
+- Avid traveler, always looking for new destinations to explore 🌍.
+  I love attending tech events
 
 
 <!---
