@@ -4,7 +4,7 @@ I'm a passionate **Software Developer** specialisinging in FrontEnd Development,
 
 ### 🛠️ Technologies & Tools
 - **Languages**: JavaScriptHTML,CSS,Typescript
-- **Frameworks**: React
+- **Frameworks**: React,Angular
 - **Tools**: Git
 - **Databases**: MySQL
 
@@ -27,7 +27,7 @@ I'm a passionate **Software Developer** specialisinging in FrontEnd Development,
 ### 😄 Fun Facts
 - I love contributing to open-source projects!
 - Avid traveler, always looking for new destinations to explore 🌍.
-  I love attending tech events
+- I love attending tech events.
 
 
 <!---
