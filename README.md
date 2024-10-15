@@ -9,7 +9,7 @@ I'm a passionate **Software Developer** specialisinging in FrontEnd Development,
 - **Databases**: MySQL
 
 ### 🚀 Featured Projects
-- [**Project One**](https://github.com/LeGabriel254/quiz-app.git) — A Quiz App that simplifies the creation, administration, and participation in quizzes using React.
+- [**Quiz-app**](https://github.com/LeGabriel254/quiz-app.git) — A Quiz App that simplifies the creation, administration, and participation in quizzes using React.
 - [**Portfolio Website**](https://github.com/LeGabriel254/My-Website.git) — My personal website showcasing my skills and projects.
 
 ### 📊 GitHub Stats
