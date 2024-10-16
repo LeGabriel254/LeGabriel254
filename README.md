@@ -3,7 +3,7 @@
 I'm a passionate **Software Developer** specializing in Frontend Development, constantly exploring new technologies and building amazing projects.
 
 ### 🛠️ Technologies & Tools
-- **Frontend**: React, Vue.js, Tailwind CSS, Bootstrap
+- **Frontend**: React, Tailwind CSS, Bootstrap
 - **Version Control**: Git, GitHub
 - **Tools**: Webpack, Babel, Docker
 - **Testing**: Jest, Cypress
