@@ -29,7 +29,7 @@ I'm a passionate **Software Developer** specializing in Frontend Development, co
 - [Instagram](https://www.instagram.com/its.leon.__/)
 
 ### 😄 Fun Facts
-- I love contributing to open-source projects!
+- I love contributing to open-source projects!.
 - Avid traveler, always looking for new destinations to explore 🌍.
 - I love attending tech events.
 
