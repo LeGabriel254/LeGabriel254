@@ -18,11 +18,6 @@ I'm a passionate **Software Developer** specializing in Frontend Development, co
 - [**Quiz-app**](https://github.com/LeGabriel254/quiz-app.git) — A Quiz App that simplifies the creation, administration, and participation in quizzes using React.
 - [**Portfolio Website**](https://github.com/LeGabriel254/My-Website.git) — My personal website showcasing my skills and projects.
 
-### 📊 GitHub Stats
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=Legabriel254&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=LeGabriel254&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeGabriel254&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-
 ### 🌍 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/leon-gabriel-82655b308)
 - [Twitter](https://x.com/LyonGabrie24988)
