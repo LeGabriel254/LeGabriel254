@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gabriel Leon!
 
-I'm a passionate **Software Developer** specializing in Frontend Development, constantly exploring new technologies and building amazing projects.
+I'm a passionate **Software Engineer** specializing in Frontend Development, constantly exploring new technologies and building amazing projects. Recently, I graduated from a **Software Engineering** course with a specialization in **Frontend Development**, and I'm currently advancing my skills through the **ALX ProdevFrontend Program**.
 
 ### 🛠️ Technologies & Tools
 - **Frontend**: React, Tailwind CSS, Bootstrap
