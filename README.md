@@ -9,9 +9,9 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 - **Testing**: Jest, Cypress
 
 ### 📖 Currently Learning
-- 🌐 Enhancing front-end performance with **Next.js**
+- 🌐 Enhancing front-end performance with **Next.js $$ Typescript**
 - 🌱 Expanding my JavaScript skills for **Full Stack Development** (React, Node.js)
-- 🎨 Customizing design systems with **Tailwind CSS**
+- 🎨 Customizing design systems with **Tailwind CSS $$ SASS/SCSS**
 - 💻 Exploring **Full Stack Development** with JavaScript (MERN stack)
 
 ### 📊 GitHub Stats
