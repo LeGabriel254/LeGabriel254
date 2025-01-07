@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 ### 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats-kv.vercel.app/api?username=LeGabriel254&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=LeGabriel254theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=LeGabriel254&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
 </p>
 ### 🚀 Featured Projects
 - [**Quiz-app**](https://github.com/LeGabriel254/quiz-app.git) — A Quiz App that simplifies the creation, administration, and participation in quizzes using React.
