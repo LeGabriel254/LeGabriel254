@@ -50,4 +50,4 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vLeGabriel254&label=Profile%20views&color=0ea5e9&style=flat" alt="Leon" /> </p>
 
-
+<img src="https://profile-counter.glitch.me/{LeGabriel254}/count.svg" alt="Vatsal :: Visitor's Count" />
