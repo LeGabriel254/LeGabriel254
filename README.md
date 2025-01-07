@@ -41,14 +41,7 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeGabriel254&theme=tokyonight"  width="31%" alt="Leon's github stats"/>
 </p>
 
-<!-- <p align="center">
-<img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
-</p> -->
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vLeGabriel254&label=Profile%20views&color=0ea5e9&style=flat" alt="Leon" /> </p>
-### 🚀 Featured Projects
-- [**Quiz-app**](https://github.com/LeGabriel254/quiz-app.git) — A Quiz App that simplifies the creation, administration, and participation in quizzes using React.
-- [**Portfolio Website**](https://github.com/LeGabriel254/My-Website.git) — My personal website showcasing my skills and projects.
 
 ### 🌍 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/leon-gabriel-82655b308)
