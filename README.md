@@ -44,8 +44,4 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vLeGabriel254&label=Profile%20views&color=0ea5e9&style=flat" alt="Leon" /> </p>
 
-### 🌍 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/leon-gabriel-82655b308)
-- [Twitter](https://x.com/LyonGabrie24988)
-- [Instagram](https://www.instagram.com/its.leon.__/)
 
