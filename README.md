@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 
 ### 📊 GitHub Stats
 <p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeGabriel254](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeGabriel254](https://github.com/LeGabriel254/github-readme-stats)
     <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=LeGabriel254&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="Leon Gabriel" />
 
 <h2></h2>
