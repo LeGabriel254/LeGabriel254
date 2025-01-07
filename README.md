@@ -27,7 +27,7 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 
 ### 📊 GitHub Stats
 <p>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeGabriel254](https://github.com/LeGabriel254/github-readme-stats)
+<img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeGabriel254&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Leon's wakatime stats"/>
     <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=LeGabriel254&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="Leon Gabriel" />
 
 <h2></h2>
@@ -48,9 +48,4 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 - [LinkedIn](https://www.linkedin.com/in/leon-gabriel-82655b308)
 - [Twitter](https://x.com/LyonGabrie24988)
 - [Instagram](https://www.instagram.com/its.leon.__/)
-
-### 😄 Fun Facts
-- I love contributing to open-source projects!.
-- Avid traveler, always looking for new destinations to explore 🌍.
-- I love attending tech events.
 
