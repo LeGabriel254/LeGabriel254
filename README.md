@@ -14,6 +14,15 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 - 🎨 Customizing design systems with **Tailwind CSS $$ SASS/SCSS**
 - 💻 Exploring **Full Stack Development** with JavaScript (MERN stack)
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs," alt="programming languages" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,sass,bootstrap,tailwind,materialui" alt="frameworks" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
+</p>  
 ### 📊 GitHub Stats
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=LeGabriel254&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=LeGabriel254&theme=vue-dark&hide_border=true' />
