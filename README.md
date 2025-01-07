@@ -25,10 +25,10 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
   <img src="https://skillicons.dev/icons?i=vscode,figma,firebase" alt="tools" />
 </p>  
 ### 📊 GitHub Stats
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=LeGabriel254&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=LeGabriel254&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=LeGabriel254&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
-
+<p>
+  <img src="https://github-readme-stats-kv.vercel.app/api?username=LeGabriel254&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
+  <img src="https://github-readme-streak-stats-kv.vercel.app?user=LeGabriel254theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
+</p>
 ### 🚀 Featured Projects
 - [**Quiz-app**](https://github.com/LeGabriel254/quiz-app.git) — A Quiz App that simplifies the creation, administration, and participation in quizzes using React.
 - [**Portfolio Website**](https://github.com/LeGabriel254/My-Website.git) — My personal website showcasing my skills and projects.
