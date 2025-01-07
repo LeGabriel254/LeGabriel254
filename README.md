@@ -17,6 +17,7 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs," alt="programming languages" />
 </p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,sass,bootstrap,tailwind" alt="frameworks" />
 </p>
