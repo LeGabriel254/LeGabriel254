@@ -39,9 +39,7 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 <h2></h2>
 
 <!-- Activity Graph -->
-<p align="center">
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=LeGabriel254&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeGabriel254&theme=tokyonight&hide_border=true"  width="64%" alt="Leon's profile-details"/>
