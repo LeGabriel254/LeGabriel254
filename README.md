@@ -33,7 +33,7 @@ I'm a passionate **Software Engineer** specializing in Frontend Development, con
 
 ### 📊 GitHub Stats
 <p>
-<img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeGabriel254&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Leon's wakatime stats"/>
+<!-- <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeGabriel254&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Leon's wakatime stats"/> -->
     <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=LeGabriel254&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="Leon Gabriel" />
 
 <h2></h2>
